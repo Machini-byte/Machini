@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kevin Machini</h1>
-<h3 align="center">A passionate Data scientist from Kenya</h3>
+<h3 align="center">Kevin Machini is a dedicated Data scientist from Kenya, working on data analysis and data science for 3+ years now. You can reach out for any freelance projects</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=machini&label=Profile%20views&color=0e75b6&style=flat" alt="machini" /> </p>
 
